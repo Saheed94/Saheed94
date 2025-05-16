@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Saheed, a DevOps Engineer</h1>
-<p align="center">
-  <img src="banner.png" alt="Saheed Ipaye – DevOps & Cloud Engineer Banner" style="width:100%;height:400px; object-fit:cover;"/>
-</p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F8AC7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Cloud+%7C+CI%2FCD+%7C+Kubernetes;Automating+Infrastructure+and+Workflows;Building+Scalable+and+Secure+Systems;Let%E2%80%99s+automate+all+the+things!" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <img src="banner.png" alt="Saheed Ipaye – DevOps & Cloud Engineer Banner" style="width:100%;height:400px; object-fit:cover;"/>
+</p>
 
 ### About Me
 
