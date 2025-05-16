@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Saheed, a DevOps Engineer</h1>
 <p align="center">
-  <img src="banner.png" alt="Saheed Ipaye – DevOps & Cloud Engineer Banner" style="width:100%;"/>
+  <img src="banner.png" alt="Saheed Ipaye – DevOps & Cloud Engineer Banner" style="width:100%;height:400px; object-fit:cover;"/>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
