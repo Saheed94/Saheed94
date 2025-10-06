@@ -33,7 +33,7 @@ I’m passionate about optimizing deployment workflows, reducing production inci
 | **Cloud Platforms**     | AWS, GCP (EC2, VMs, CLI)                                    |
 | **Containers**          | Docker, Docker Compose, Kubernetes                          |
 | **CI/CD & IaC**         | GitHub Actions, Jenkins, Terraform,                         |
-| **Monitoring & Logging**| Prometheus, Grafana,                               |
+| **Monitoring & Logging**| Prometheus, Grafana,                                        |
 | **Version Control**     | Git, GitHub (SSH-based)                                     |
 | **DNS & Domains**       | Cloudflare, SSL/TLS, Let's Encrypt                          |
 
@@ -72,8 +72,7 @@ Skills: Cloud Platforms: AWS (EC2, CLI), Docker, Docker Compose · Prometheus.io
 ### Certifications 
 -  PG in DevOps — Edureka
 -  Google Cybersecurity professional Certificate
--  **AWS Certifications:**
-  - AWS Certified Cloud Practitioner  
+-  AWS Certified Cloud Practitioner  
        
 
 ---
@@ -100,10 +99,9 @@ Skills: Cloud Platforms: AWS (EC2, CLI), Docker, Docker Compose · Prometheus.io
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saheed94&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saheed94&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
